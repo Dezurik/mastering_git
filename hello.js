@@ -7,3 +7,5 @@ console.log('Hello, GitHub!');
 // CODE
 // CODE
 // CODE
+
+console.log('Proficiency in reset, revert, and stash');
